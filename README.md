@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @sadjad-tavakoli
-- 👀 I’m a software engineer!
-- 😉 Please feel free to check [my website](https://sadjadtavakoli.github.io)
+- 👋 Hi, I’m @sadjad-tavakoli, a software engineer 👨‍💻!
+- 👀 Please feel free to check [my website](https://sadjadtavakoli.github.io)
 - 📫 You can also reach me by sadjadtavakoli@gmail.com
 
 <!---
